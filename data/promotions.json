@@ -1,0 +1,10 @@
+[{
+    "type": "item",
+    "id": 2,
+    "minItems": 2,
+    "discount": 2
+}, {
+    "type": "total",
+    "minValue": 30,
+    "discount": 0.1
+}]
